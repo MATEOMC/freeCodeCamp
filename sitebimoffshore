@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap" rel="stylesheet">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIMSOLUTION</title>
+
+
+<style>
+
+body{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: 'Manrope', sans-serif;
+    }
+
+.Titulo{
+    background-color: darkgrey;
+    color:cyan;
+    position: absolute;
+    } 
+
+.Titulo1{
+    font-size: 50px;
+    position: absolute;
+    left: 250px;
+    top: 220px;
+    }
+
+.Titulo2{
+position: absolute;
+right: 100px;
+top: 25px;
+background-color:blue;
+padding: 10px;
+color:white;
+border-radius: 6px;
+}
+
+.Titulo3{ 
+    font-size: 20px;
+    position: absolute;
+    left: 250px;
+    top: 1700px;
+}
+
+.smaller-image{
+    widows: 100px;
+    position: absolute;
+    top: 550px;
+}
+
+.Tituloend{
+
+  widows: 100px;
+    position: absolute;
+    top: 950px;  
+    background-color: pink;
+}
+
+
+</style>
+
+</head>
+
+<body>
+    <div class="cuadrosuperior"></div>
+
+    <div class="Titulo1">BIM Outsourcing Solution</div>
+    <div class="Titulo2"> Schedule a Call </div>
+    
+    <div class="Titulo3">
+        <h2>  Welcome to MC BIM Solutions </h2>
+        <h3>MC BIM Solutions is a BIM Consultancy and Surveying company based in London. We cover many areas including BIM implementation, Project management, Scan to BIM, Topographic Surveys, IPMS and Area Measurement, traditional CAD Surveys as well as AEC services</h3>    
+        <h3>We believe that each project is unique and needs a bespoke approach. Our client-focus policy ensures that you experience a personalised and high quality service with us.</h3>
+        <h3>With over XXX successfully delivered projects since 2014, we aim to consistently provide timely and efficient services to meet the needs of our clients to exceptional standards.</h3>
+    </div>
+
+    <div class="Tituloend">
+contact!
+aaa
+
+
+    </div>
+    
+    <div class="Titulo3"> </div>
+    <div href="#"><img class="smaller-image" src="https://images6.alphacoders.com/440/440947.jpg" alt="San francisco-BIM."></a>   
+    
+
+
+
+        
+</body>
+</html>
